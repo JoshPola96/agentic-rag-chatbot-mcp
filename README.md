@@ -2,6 +2,10 @@
 
 # Agentic RAG Chatbot for Multi-Format Documents
 
+> **Scope** · Timeboxed technical assessment (multi-day). Built to a brief under a fixed clock — scope decisions were deliberate.
+>
+> **Committed on purpose:** the populated `vector_store_data/` and sample uploads ship with the repo so the chatbot is queryable immediately after clone.
+
 *![alt text](image.png)*
 
 ## 📚 Project Overview
