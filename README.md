@@ -6,6 +6,14 @@
 >
 > **Committed on purpose:** the populated `vector_store_data/` and sample uploads ship with the repo so the chatbot is queryable immediately after clone.
 
+> [!NOTE]
+> **Built 2025. The ecosystem has moved since.**
+> Dependencies here are unpinned, so a clean `pip install` today resolves to
+> versions that did not exist when this was written and pandas 3.0, numpy 2.5 plus major releases of torch, ultralytics and transformers have all landed since. Expect install or
+> runtime breakage on a fresh environment. What is on offer is the engineering
+> approach and the decisions behind it, not a guaranteed-green build.
+> Happy to bring it current if that would be useful — just ask.
+
 *![alt text](image.png)*
 
 ## 📚 Project Overview
