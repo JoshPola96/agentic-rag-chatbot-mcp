@@ -1,3 +1,10 @@
+# .gitignore
 __pycache__/ 
 .env 
 venv/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+*.log
+vector_store_data/
+uploaded_docs/
